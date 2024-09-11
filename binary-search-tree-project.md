@@ -1,5 +1,3 @@
-
-```markdown:binary-search-tree-project.md
 # Binary Search Tree Project
 
 This document outlines the steps to create a Binary Search Tree (BST) from the given array: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
@@ -52,13 +50,13 @@ This document outlines the steps to create a Binary Search Tree (BST) from the g
 ## Final Binary Search Tree Structure
 
 ```
-        7
-      /   \
-     5     8
-   /   \     \
-  1     6     9
- / \
-0   3
-   / \
-  2   4
+              7
+            /   \
+           5     8
+         /   \     \
+        1     6     9
+       / \
+      0   3
+         / \
+        2   4
 ```
